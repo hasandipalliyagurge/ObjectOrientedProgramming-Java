@@ -4,4 +4,7 @@ class Stack{
 	Stack(int size){
 		array= new int[size];
 	}
+	public void printStack(){
+		
+	}
 }
